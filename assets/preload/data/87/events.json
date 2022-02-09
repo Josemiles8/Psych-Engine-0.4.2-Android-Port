@@ -1,0 +1,159 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "stage",
+		"player1": "mark",
+		"player2": "blank",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Play Animation",
+						"what",
+						"bf"
+					]
+				]
+			],
+			[
+				3187.5,
+				[
+					[
+						"Play Animation",
+						"what",
+						"bf"
+					]
+				]
+			],
+			[
+				5625,
+				[
+					[
+						"Play Animation",
+						"what",
+						"bf"
+					]
+				]
+			],
+			[
+				12750,
+				[
+					[
+						"Play Animation",
+						"what",
+						"bf"
+					]
+				]
+			],
+			[
+				12937.5,
+				[
+					[
+						"Play Animation",
+						"what",
+						"bf"
+					]
+				]
+			],
+			[
+				25312.5,
+				[
+					[
+						"Play Animation",
+						"what",
+						"bf"
+					]
+				]
+			],
+			[
+				35812.5,
+				[
+					[
+						"Play Animation",
+						"what",
+						"bf"
+					]
+				]
+			],
+			[
+				41812.5,
+				[
+					[
+						"Play Animation",
+						"what",
+						"bf"
+					]
+				]
+			],
+			[
+				49312.5,
+				[
+					[
+						"Play Animation",
+						"what",
+						"bf"
+					]
+				]
+			],
+			[
+				59812.5,
+				[
+					[
+						"Play Animation",
+						"what",
+						"bf"
+					]
+				]
+			],
+			[
+				60750,
+				[
+					[
+						"Play Animation",
+						"what",
+						"bf"
+					]
+				]
+			],
+			[
+				60937.5,
+				[
+					[
+						"Play Animation",
+						"what",
+						"bf"
+					]
+				]
+			],
+			[
+				71109.375,
+				[
+					[
+						"Play Animation",
+						"what",
+						"bf"
+					]
+				]
+			],
+			[
+				72562.5,
+				[
+					[
+						"Play Animation",
+						"what",
+						"bf"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "blank",
+		"bpm": 160,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "87"
+	}
+}
