@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				410,
+				170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "cam anim"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/camidle",
+	"position": [
+		-525,
+		190
+	],
+	"healthicon": "mark",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
