@@ -1,0 +1,40 @@
+{
+	"storyName": "dawko",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "dawko",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"fifty twenty",
+			"dawko",
+			[
+				115,
+				13,
+				175
+			]
+		],
+		[
+			"the interview",
+			"scott",
+			[
+				146,
+				113,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "5020week"
+}

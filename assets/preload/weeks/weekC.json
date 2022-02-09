@@ -1,0 +1,31 @@
+{
+	"storyName": "dawko",
+	"difficulties": "Alt",
+	"hideFreeplay": false,
+	"weekBackground": "dawko",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"the interview alt",
+			"bf",
+			[
+				115,
+				13,
+				175
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "5020week2"
+}

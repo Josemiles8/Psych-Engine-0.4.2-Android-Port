@@ -1,0 +1,40 @@
+{
+	"storyName": "Markiplier",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "mark",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"87",
+			"mark",
+			[
+				35,
+				0,
+				0
+			]
+		],
+		[
+			"Springtrapped",
+			"springtrap",
+			[
+				60,
+				55,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}
