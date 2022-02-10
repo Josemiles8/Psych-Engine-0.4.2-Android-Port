@@ -1,25 +1,42 @@
 {
 	"songs": [
 		[
-			"Hero",
-			"finn",
+			"Deicide",
+			"yeb",
 			[
-				0,
-				173,
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Blastphemy",
+			"yeb",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Update Croissant",
+			"tikjy",
+			[
+				146,
+				113,
 				253
 			]
 		]
 	],
 	"hideFreeplay": false,
-	"weekBackground": "",
-	"difficulties": "",
+	"weekBackground": "stage",
 	"weekCharacters": [
-		"finn",
+		"tikjy",
 		"bf",
 		"gf"
 	],
-	"storyName": "Adventure time",
-	"weekName": "week7",
+	"storyName": "g",
+	"weekName": "Custom Week",
 	"freeplayColor": [
 		146,
 		113,
