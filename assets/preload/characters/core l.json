@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				10,
+				-84
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "core left"
+		},
+		{
+			"offsets": [
+				-11,
+				-49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "core right"
+		},
+		{
+			"offsets": [
+				-20,
+				-127
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "core down"
+		},
+		{
+			"offsets": [
+				-21,
+				-55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "core up"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-90
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "core idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				389,
+				-74
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "core vai mamar",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sad core/Core Louco Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "core mamar",
+	"flip_x": false,
+	"healthbar_colors": [
+		39,
+		41,
+		39
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-59,
+				-400
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "pitro left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-110,
+				-395
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "pitro right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-120,
+				-500
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "pitro down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-89,
+				-339
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "pitro up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-60,
+				-370
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "pitron idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fun/pitron fun",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "pfun",
+	"flip_x": true,
+	"healthbar_colors": [
+		7,
+		5,
+		95
+	],
+	"camera_position": [
+		-50,
+		370
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

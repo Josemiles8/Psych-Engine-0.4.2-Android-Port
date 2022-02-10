@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-60,
+				-370
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "pitron idle"
+		},
+		{
+			"offsets": [
+				-59,
+				-400
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "pitro left"
+		},
+		{
+			"offsets": [
+				-110,
+				-395
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "pitro right"
+		},
+		{
+			"offsets": [
+				-120,
+				-500
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "pitro down"
+		},
+		{
+			"offsets": [
+				-89,
+				-339
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pitro up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dust core/pitron do ruim",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "pitrochara",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-50,
+		370
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-120,
+				-250
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "pitron idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-113,
+				-254
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "pitro left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-110,
+				-280
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "pitro right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-150,
+				-410
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "pitro down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-146,
+				-240
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "pitro up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fun/PITRONZITO CORRENDO",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "run",
+	"flip_x": false,
+	"healthbar_colors": [
+		216,
+		85,
+		142
+	],
+	"camera_position": [
+		-60,
+		240
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
