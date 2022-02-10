@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"endless",
+			"fun",
+			[
+				46,
+				0,
+				133
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "funisinfinitefunisinfinitefunisinfinitefunisinfitefunisinfinitelolfunisinfinite",
+	"weekName": "fun or run week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

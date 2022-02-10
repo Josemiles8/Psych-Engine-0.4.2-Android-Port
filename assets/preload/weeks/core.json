@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"happy",
+			"core",
+			[
+				195,
+				20,
+				80
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "core triste vs pitron",
+	"weekName": "week core triste :(",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
