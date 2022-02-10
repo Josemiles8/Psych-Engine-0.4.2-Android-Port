@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PITRONZITO MEDROSO.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pitro down0000" x="0" y="0" width="216" height="185" pivotX="0" pivotY="0" frameX="0" frameY="-46" frameWidth="216" frameHeight="236"/>
+	<SubTexture name="pitro down0001" x="0" y="0" width="216" height="185" frameX="0" frameY="-46" frameWidth="216" frameHeight="236"/>
+	<SubTexture name="pitro down0002" x="216" y="0" width="216" height="196" frameX="0" frameY="-36" frameWidth="216" frameHeight="236"/>
+	<SubTexture name="pitro down0003" x="216" y="0" width="216" height="196" frameX="0" frameY="-36" frameWidth="216" frameHeight="236"/>
+	<SubTexture name="pitro down0004" x="432" y="0" width="216" height="214" frameX="0" frameY="-20" frameWidth="216" frameHeight="236"/>
+	<SubTexture name="pitro down0005" x="648" y="0" width="216" height="236"/>
+	<SubTexture name="pitro down0006" x="648" y="0" width="216" height="236"/>
+	<SubTexture name="pitro down0007" x="648" y="0" width="216" height="236"/>
+	<SubTexture name="pitro down0008" x="648" y="0" width="216" height="236"/>
+	<SubTexture name="pitro down0009" x="648" y="0" width="216" height="236"/>
+	<SubTexture name="pitro down0010" x="648" y="0" width="216" height="236"/>
+	<SubTexture name="pitro left0000" x="864" y="0" width="292" height="330" pivotX="-8.95" pivotY="-15.8" frameX="-9" frameY="-6" frameWidth="315" frameHeight="336"/>
+	<SubTexture name="pitro left0001" x="864" y="0" width="292" height="330" frameX="-9" frameY="-6" frameWidth="315" frameHeight="336"/>
+	<SubTexture name="pitro left0002" x="1156" y="0" width="305" height="335" frameX="-9" frameY="-1" frameWidth="315" frameHeight="336"/>
+	<SubTexture name="pitro left0003" x="1156" y="0" width="305" height="335" frameX="-9" frameY="-1" frameWidth="315" frameHeight="336"/>
+	<SubTexture name="pitro left0004" x="1156" y="0" width="305" height="335" frameX="-9" frameY="-1" frameWidth="315" frameHeight="336"/>
+	<SubTexture name="pitro left0005" x="1461" y="0" width="315" height="336"/>
+	<SubTexture name="pitro left0006" x="1461" y="0" width="315" height="336"/>
+	<SubTexture name="pitro left0007" x="1461" y="0" width="315" height="336"/>
+	<SubTexture name="pitro left0008" x="1461" y="0" width="315" height="336"/>
+	<SubTexture name="pitro left0009" x="1461" y="0" width="315" height="336"/>
+	<SubTexture name="pitro left0010" x="1461" y="0" width="315" height="336"/>
+	<SubTexture name="pitro left0011" x="1461" y="0" width="315" height="336"/>
+	<SubTexture name="pitro left0012" x="1461" y="0" width="315" height="336"/>
+	<SubTexture name="pitro left0013" x="1461" y="0" width="315" height="336"/>
+	<SubTexture name="pitro right0000" x="0" y="336" width="304" height="339" pivotX="0.2" pivotY="-0.85" frameX="-11" frameY="0" frameWidth="315" frameHeight="339"/>
+	<SubTexture name="pitro right0001" x="0" y="336" width="304" height="339" frameX="-11" frameY="0" frameWidth="315" frameHeight="339"/>
+	<SubTexture name="pitro right0002" x="304" y="336" width="315" height="337" frameX="0" frameY="-2" frameWidth="315" frameHeight="339"/>
+	<SubTexture name="pitro right0003" x="304" y="336" width="315" height="337" frameX="0" frameY="-2" frameWidth="315" frameHeight="339"/>
+	<SubTexture name="pitro right0004" x="619" y="336" width="315" height="338" frameX="0" frameY="-1" frameWidth="315" frameHeight="339"/>
+	<SubTexture name="pitro right0005" x="619" y="336" width="315" height="338" frameX="0" frameY="-1" frameWidth="315" frameHeight="339"/>
+	<SubTexture name="pitro right0006" x="619" y="336" width="315" height="338" frameX="0" frameY="-1" frameWidth="315" frameHeight="339"/>
+	<SubTexture name="pitro right0007" x="619" y="336" width="315" height="338" frameX="0" frameY="-1" frameWidth="315" frameHeight="339"/>
+	<SubTexture name="pitro right0008" x="619" y="336" width="315" height="338" frameX="0" frameY="-1" frameWidth="315" frameHeight="339"/>
+	<SubTexture name="pitro up0000" x="934" y="336" width="234" height="408" pivotX="-38.05" pivotY="4.75" frameX="-9" frameY="0" frameWidth="244" frameHeight="408"/>
+	<SubTexture name="pitro up0001" x="934" y="336" width="234" height="408" frameX="-9" frameY="0" frameWidth="244" frameHeight="408"/>
+	<SubTexture name="pitro up0002" x="1168" y="336" width="233" height="396" frameX="-10" frameY="-10" frameWidth="244" frameHeight="408"/>
+	<SubTexture name="pitro up0003" x="1168" y="336" width="233" height="396" frameX="-10" frameY="-10" frameWidth="244" frameHeight="408"/>
+	<SubTexture name="pitro up0004" x="1168" y="336" width="233" height="396" frameX="-10" frameY="-10" frameWidth="244" frameHeight="408"/>
+	<SubTexture name="pitro up0005" x="1401" y="336" width="244" height="394" frameX="0" frameY="-11" frameWidth="244" frameHeight="408"/>
+	<SubTexture name="pitro up0006" x="1401" y="336" width="244" height="394" frameX="0" frameY="-11" frameWidth="244" frameHeight="408"/>
+	<SubTexture name="pitro up0007" x="1401" y="336" width="244" height="394" frameX="0" frameY="-11" frameWidth="244" frameHeight="408"/>
+	<SubTexture name="pitro up0008" x="1401" y="336" width="244" height="394" frameX="0" frameY="-11" frameWidth="244" frameHeight="408"/>
+	<SubTexture name="pitron idle0000" x="1645" y="336" width="247" height="364" pivotX="1.4" pivotY="-5.65" frameX="-1" frameY="-10" frameWidth="272" frameHeight="379"/>
+	<SubTexture name="pitron idle0001" x="1645" y="336" width="247" height="364" frameX="-1" frameY="-10" frameWidth="272" frameHeight="379"/>
+	<SubTexture name="pitron idle0002" x="0" y="744" width="250" height="365" frameX="0" frameY="-14" frameWidth="272" frameHeight="379"/>
+	<SubTexture name="pitron idle0003" x="0" y="744" width="250" height="365" frameX="0" frameY="-14" frameWidth="272" frameHeight="379"/>
+	<SubTexture name="pitron idle0004" x="250" y="744" width="248" height="368" frameX="-6" frameY="-9" frameWidth="272" frameHeight="379"/>
+	<SubTexture name="pitron idle0005" x="250" y="744" width="248" height="368" frameX="-6" frameY="-9" frameWidth="272" frameHeight="379"/>
+	<SubTexture name="pitron idle0006" x="498" y="744" width="260" height="375" frameX="-3" frameY="-3" frameWidth="272" frameHeight="379"/>
+	<SubTexture name="pitron idle0007" x="498" y="744" width="260" height="375" frameX="-3" frameY="-3" frameWidth="272" frameHeight="379"/>
+	<SubTexture name="pitron idle0008" x="758" y="744" width="271" height="378" frameX="-1" frameY="0" frameWidth="272" frameHeight="379"/>
+	<SubTexture name="pitron idle0009" x="758" y="744" width="271" height="378" frameX="-1" frameY="0" frameWidth="272" frameHeight="379"/>
+	<SubTexture name="pitron idle0010" x="758" y="744" width="271" height="378" frameX="-1" frameY="0" frameWidth="272" frameHeight="379"/>
+	<SubTexture name="pitron idle0011" x="1029" y="744" width="261" height="363" frameX="0" frameY="-15" frameWidth="272" frameHeight="379"/>
+	<SubTexture name="pitron idle0012" x="1029" y="744" width="261" height="363" frameX="0" frameY="-15" frameWidth="272" frameHeight="379"/>
+	<SubTexture name="pitron idle0013" x="1029" y="744" width="261" height="363" frameX="0" frameY="-15" frameWidth="272" frameHeight="379"/>
+	<SubTexture name="pitron idle0014" x="1029" y="744" width="261" height="363" frameX="0" frameY="-15" frameWidth="272" frameHeight="379"/>
+</TextureAtlas>
