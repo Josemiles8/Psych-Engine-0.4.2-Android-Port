@@ -1,0 +1,31 @@
+{
+	"storyName": "Lord X's Revenge",
+	"difficulties": "Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "christmas",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"BF",
+		""
+	],
+	"songs": [
+		[
+			"Conscience",
+			"icon-lordx",
+			[
+				75,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Conscience"
+}
