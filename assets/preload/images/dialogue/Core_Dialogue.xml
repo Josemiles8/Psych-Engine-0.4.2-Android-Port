@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="core talk 0000" x="0" y="0" width="355" height="383" pivotX="0" pivotY="0" frameX="-6" frameY="-25" frameWidth="361" frameHeight="419"/>
+	<SubTexture name="core talk 0001" x="0" y="0" width="355" height="383" frameX="-6" frameY="-25" frameWidth="361" frameHeight="419"/>
+	<SubTexture name="core talk 0002" x="355" y="0" width="351" height="409" frameX="-7" frameY="-9" frameWidth="361" frameHeight="419"/>
+	<SubTexture name="core talk 0003" x="355" y="0" width="351" height="409" frameX="-7" frameY="-9" frameWidth="361" frameHeight="419"/>
+	<SubTexture name="core talk 0004" x="0" y="409" width="358" height="419" frameX="0" frameY="0" frameWidth="361" frameHeight="419"/>
+	<SubTexture name="core talk 0005" x="0" y="409" width="358" height="419" frameX="0" frameY="0" frameWidth="361" frameHeight="419"/>
+	<SubTexture name="core talk 0006" x="0" y="409" width="358" height="419" frameX="0" frameY="0" frameWidth="361" frameHeight="419"/>
+	<SubTexture name="core talk 0007" x="0" y="409" width="358" height="419" frameX="0" frameY="0" frameWidth="361" frameHeight="419"/>
+	<SubTexture name="core talk 0008" x="0" y="409" width="358" height="419" frameX="0" frameY="0" frameWidth="361" frameHeight="419"/>
+	<SubTexture name="core talk 0009" x="0" y="409" width="358" height="419" frameX="0" frameY="0" frameWidth="361" frameHeight="419"/>
+	<SubTexture name="core talk 0010" x="0" y="409" width="358" height="419" frameX="0" frameY="0" frameWidth="361" frameHeight="419"/>
+</TextureAtlas>

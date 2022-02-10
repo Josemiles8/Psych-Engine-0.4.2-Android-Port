@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "center",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_name": "do ruim talk",
+			"idle_name": "do ruim talk"
+		},
+		{
+			"loop_name": "do ruim tomou talk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "do ruim tomou talk",
+			"anim": "salvou morrendo",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "pitron do ruim"
+}

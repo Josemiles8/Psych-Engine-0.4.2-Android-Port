@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "center",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_name": "dust core talk",
+			"idle_name": "dust core talk"
+		},
+		{
+			"loop_name": "dust",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "dust",
+			"anim": "blaster",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "dust core blaster shoot",
+                         "idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "dust core blaster shoot",
+			"anim": "dust",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "Dust_Core_Dialogue"
+}
