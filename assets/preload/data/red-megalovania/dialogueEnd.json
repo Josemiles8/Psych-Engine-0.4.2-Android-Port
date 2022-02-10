@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.03,
+			"portrait": "pitrondoruim",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "HAHAHAHAAHAHAAH!!!! VOCE E MUIIIITO FRACO PARA BATALHAR COMIGO!!!!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "pitrondoruim",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "AGORA QUEM VAI MORRER E VOCE!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pitrondoruim",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(so se vc quiser mais uma batalha de rap)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dust",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "nao pitron..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dust",
+			"boxState": "normal",
+			"expression": "blaster",
+			"text": "sem mais batalha de rap para voce."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dust",
+			"boxState": "normal",
+			"expression": "blaster shoot",
+			"text": ""
+		},
+		{
+			"speed": 0.00500000000000001,
+			"portrait": "pitrondoruim",
+			"boxState": "normal",
+			"expression": "salvou morrendo",
+			"text": "EU SALVEI MORRENDO!!!! NAO E POSSIVELLLLL AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+		}
+	]
+}

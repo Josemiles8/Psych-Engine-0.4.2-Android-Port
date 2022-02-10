@@ -1,0 +1,25 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.02,
+			"portrait": "pitrondoruim",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "CORE!!!!!!! VOCE TEM QUE BATALHAR RAP COMIGO AGORA CORE!!!!"
+		},
+		{
+			"speed": 0.06,
+			"portrait": "dust",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "mais se vc perder, vc ira pagar por tudo que voce fez nas ''weeks'' passadas."
+		},
+		{
+			"speed": 0.025,
+			"portrait": "pitrondoruim",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "QUE SEJA ENTAO!!!!!!!!!!!!!!!!!!!!!! HAHAAHHAAHAAHAHAHAAHAHAHAHAHAAHAAHAHAHAHAHAHAAHAHAHAHAHAHAHAAHAHAHAHAHAHAHAHAHAAHAHAHAHAAHAHAHAHAAHhahahahahahahHhahhahahahahahaAHAHAHAHAHAHAHAHAHAHAAHAHAHAAHAHAHAHAHAAHAAAHAHAAHAHAAHAHAHAAAAAHAAHAHHAAHHAAHAHAHAHAHAAHAHAHA"
+		}
+	]
+}
