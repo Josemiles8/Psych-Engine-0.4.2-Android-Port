@@ -1,22 +1,31 @@
 {
-	"songs": [
-		["Bopeebo", "dad", [146, 113, 253]],
-		["Fresh", "dad", [146, 113, 253]],
-		["Dad Battle", "dad", [146, 113, 253]]
+	"storyName": "Lord X's Revenge",
+	"difficulties": "Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "christmas",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "stage",
-
-	"storyName": "Daddy Dearest",
 	"weekBefore": "tutorial",
-	"weekName": "Week 1",
 	"startUnlocked": true,
-
+	"weekCharacters": [
+		"",
+		"BF",
+		""
+	],
+	"songs": [
+		[
+			"Conscience",
+			"icon-lordx",
+			[
+				75,
+				0,
+				0
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "Conscience"
 }
