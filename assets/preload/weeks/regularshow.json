@@ -1,0 +1,66 @@
+{
+	"storyName": "going back to work",
+	"hideFreeplay": false,
+	"weekBackground": "black",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"overworked",
+			"mordecai",
+			[
+				0,
+				100,
+				255
+			]
+		]
+	],
+	"You Can't save them",
+			"jake",
+			[
+				0,
+				0,
+				55
+			]
+		]
+	],
+	"Last Spooktober",
+			"spooky",
+			[
+				240,
+				180,
+				95
+			]
+		],
+		[
+			"Gunshot",
+			"picoc",
+			[
+				120,
+				193,
+				93
+			]
+		],
+		[
+			"blue balled",
+			"bfc",
+			[
+				126,
+				153,
+				213
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}
